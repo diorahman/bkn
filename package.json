@@ -1,0 +1,28 @@
+{
+  "name": "bkn",
+  "version": "0.0.1",
+  "description": "bkn cheerio command line app",
+  "main": "index.js",
+  "bin": {
+    "bkn": "bkn.js"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "bin": {
+    "bkn": "bin/bkn.js"
+  },
+  "keywords": [
+    "bkn",
+    "pns",
+    "pegawai",
+    "negeri",
+    "sipil"
+  ],
+  "author": "Dhi Aurrahman <diorahman@rockybars.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bkn-cheerio": "0.0.1",
+    "commander": "~2.2.0"
+  }
+}
