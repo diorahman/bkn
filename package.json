@@ -4,13 +4,10 @@
   "description": "bkn cheerio command line app",
   "main": "index.js",
   "bin": {
-    "bkn": "bkn.js"
+    "bkn": "bin/bkn.js"
   },
   "scripts": {
     "test": "make test"
-  },
-  "bin": {
-    "bkn": "bin/bkn.js"
   },
   "keywords": [
     "bkn",
@@ -24,5 +21,14 @@
   "dependencies": {
     "bkn-cheerio": "0.0.1",
     "commander": "~2.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/diorahman/bkn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/diorahman/bkn/issues"
+  },
+  "homepage": "https://github.com/diorahman/bkn"
 }
