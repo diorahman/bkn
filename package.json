@@ -1,6 +1,6 @@
 {
   "name": "bkn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "bkn cheerio command line app",
   "main": "index.js",
   "bin": {
@@ -19,7 +19,7 @@
   "author": "Dhi Aurrahman <diorahman@rockybars.com>",
   "license": "MIT",
   "dependencies": {
-    "bkn-cheerio": "0.0.1",
+    "bkn-cheerio": "0.0.2",
     "commander": "~2.2.0"
   },
   "devDependencies": {},
